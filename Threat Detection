@@ -1,0 +1,13 @@
+from restact import RestactClient
+from mistral import AnomalyDetector
+import logging
+
+class ThreatDetection:
+    def __init__(self):
+        self.restact = RestactClient()
+        self.mistral = AnomalyDetector()
+
+    async def detect_and_respond(self, data):
+        anomalies = self.mistral.detect(data)
+        response = self.restact.trigger_response(anomalies)
+        return response
