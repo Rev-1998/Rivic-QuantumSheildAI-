@@ -168,9 +168,9 @@ QuantumShieldAI represents a significant advancement in cybersecurity technology
 ### Contact Information
 
 For more information about QuantumShieldAI, please contact:
-- Technical Support: support@quantumshieldai.com
-- Sales Inquiries: sales@quantumshieldai.com
-- General Information: info@quantumshieldai.com
+- Technical Support: support@rivic.xyz
+- Sales Inquiries: sales@rivic.xyz
+- General Information: info@rivic.xyz
 
 ### References
 
