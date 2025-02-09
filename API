@@ -1,0 +1,16 @@
+from fastapi import APIRouter
+from core.threat_detection import ThreatDetection
+from core.quantum_safe import QuantumSafe
+
+router = APIRouter()
+threat_detector = ThreatDetection()
+quantum_safe = QuantumSafe()
+
+@router.post("/detect-threats")
+async def detect_threats(data: dict):
+    return await threat_detector.detect_and_respond(data)
+
+@router.post("/encrypt-data")
+async def encrypt_data(data: dict):
+    encrypted = quantum_safe.encrypt(data["payload"])
+    return {"encrypted": encrypted}
