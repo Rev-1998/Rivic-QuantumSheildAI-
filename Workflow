@@ -1,0 +1,43 @@
+QuantumShield-AI/
+├── .github/
+│   ├── workflows/            # CI/CD pipelines
+│   │   └── main.yml
+│   ├── ISSUE_TEMPLATE.md     # Standardized issue templates
+│   └── PULL_REQUEST_TEMPLATE.md
+├── src/
+│   ├── core/                 # Core AI/cybersecurity logic
+│   │   ├── threat_detection/
+│   │   │   ├── restact_integration.py
+│   │   │   └── mistral_anomaly.py
+│   │   ├── ai_security/
+│   │   │   ├── cognee_tests/
+│   │   │   └── weaviate_graphs/
+│   │   └── quantum_safe/
+│   │       ├── lmnt_crypto.py
+│   │       └── dlthub_lineage.py
+│   ├── api/                  # FastAPI/TypeScript endpoints
+│   │   ├── app.py
+│   │   └── routes/
+│   ├── config/               # Environment and logging
+│   │   ├── settings.py
+│   │   └── logger.yaml
+│   └── tests/                # Unit/integration tests
+├── docker/
+│   ├── quantumshield.Dockerfile
+│   ├── prometheus.yml        # Monitoring configs
+│   └── grafana/              # Dashboard templates
+├── docs/
+│   ├── WHITEPAPER.md         # Grant-focused whitepaper
+│   ├── ARCHITECTURE.md       # System design diagrams
+│   ├── DEMO_PITCH.md         # Investor/partner pitch
+│   └── COMPLIANCE.md         # NIST/ISO 27001 alignment
+├── scripts/                  # Deployment utilities
+│   ├── deploy.sh
+│   └── migrate_db.py
+├── .env.example              # Template for environment variables
+├── docker-compose.yml        # Multi-service orchestration
+├── requirements.txt          # Python dependencies
+├── package.json              # TypeScript dependencies (if applicable)
+├── LICENSE                   # Apache 2.0
+├── README.md                 # Project overview
+└── CONTRIBUTING.md           # Guidelines for collaborators
