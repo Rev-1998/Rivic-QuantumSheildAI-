@@ -29,3 +29,36 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+# Rivic QuantumShield AI
+
+## Legal Notice and Copyright
+
+Copyright © 2025 Rivic Corporation. All rights reserved.
+
+### Proprietary Rights
+QuantumShield AI is a proprietary technology of Rivic Corporation. All intellectual property rights, including but not limited to patents, copyrights, trademarks, trade secrets, and other proprietary rights related to QuantumShield AI are owned by Rivic Corporation.
+
+### License Terms
+1. This software and associated documentation files (the "Software") are proprietary to Rivic Corporation.
+2. No part of this Software may be reproduced, modified, transmitted, or transferred in any form or by any means, electronic or mechanical, without the express permission of Rivic Corporation.
+3. Limited license rights are granted to authorized licensees pursuant to separate written agreements.
+
+### Confidentiality
+The technology, algorithms, and implementation details described in this document are confidential and proprietary information of Rivic Corporation. Unauthorized disclosure is prohibited.
+
+
+## Contact Information
+
+For legal inquiries:
+- Legal Department: legal@rivic.xyz
+- Compliance Office: compliance@rivic.xyz
+
+For technical support:
+- Technical Support: revan.ande@rivic.xyz
+- Security Team: security@rivic.xyz
+
+---
+Document Version: 1.0.0
+Last Updated: February 4, 2025
+Classification: Confidential - Internal Use Only
