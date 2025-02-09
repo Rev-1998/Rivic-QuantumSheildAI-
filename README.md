@@ -10,7 +10,7 @@
 
 ## Quick Start 🚀
 bash
-git clone https://github.com/[YourOrg]/QuantumShield-AI.git
+git clone https://github.com/Rivic-QuantumShieldAI.git
 cd QuantumShield-AI
 cp .env.example .env  # Update with your credentials
 docker-compose up -d --build
