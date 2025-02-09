@@ -1,0 +1,11 @@
+from lmnt import LMNTCrypt
+
+class QuantumSafe:
+    def __init__(self):
+        self.crypto = LMNTCrypt()
+
+    def encrypt(self, data):
+        return self.crypto.encrypt(data)
+
+    def decrypt(self, encrypted_data):
+        return self.crypto.decrypt(encrypted_data)
