@@ -8,12 +8,7 @@
 - **Real-Time Threat Detection**: Mistral anomaly detection + Restact response.
 - **Self-Healing AI Models**: Cognee adversarial testing + Continue monitoring.
 
-## Quick Start 🚀
-bash
-git clone https://github.com/Rivic-QuantumShieldAI.git
-cd QuantumShield-AI
-cp .env.example .env  # Update with your credentials
-docker-compose up -d --build
+Website:https://rivic.xyz
 
 
 Copyright 2024 QuantumShield AI Contributors
